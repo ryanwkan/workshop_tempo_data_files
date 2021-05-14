@@ -1,0 +1,9 @@
+EVENT_BUS=rb-api-tempo-events-dev-1
+
+NOTIFICATION_ES_ENDPOINT=https://search-rb-notif-idx-dev-1-so6fh2mno4lhhj772rkjtf4m5i.ap-southeast-2.es.amazonaws.com/
+
+REGION=ap-southeast-2
+
+TEMPO_DATA_INDEX=tempo_data_<your_first_name>
+
+ES_ARN=arn:aws:es:ap-southeast-2:791031460737:domain/rb-notif-idx-dev-1
